@@ -1,0 +1,4 @@
+activate venv
+
+pip install streamlit
+
